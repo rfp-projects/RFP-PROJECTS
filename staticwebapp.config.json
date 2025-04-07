@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "route": "/proj",
+      "redirect": "https://projshare.rfpshare.store/CdzBwxAn",
+      "statusCode": 302
+    }
+  ]
+}
